@@ -125,5 +125,5 @@ Content-Type: application/json
 }
 
 ### 아이템 조회
-GET http://localhost:8080/api/v1/items/itm_lnTOhyzZcBheBsce
+GET http://localhost:8080/api/v1/items/itm_aPP7iHDz7UojxHbU
 Content-Type: application/json
